@@ -1,1 +1,8 @@
-# Portifolio---An-lise-de-Dados
+## Portifolio
+
+Olá! Eu sou o Renan e esse é o portfólio que eu criei para comprartilhar meus meus estudos e projetos que venho desenvolvendo na área de análise e ciência de dados. Sou Arquiteto e Urbanista de formação e venho me aventurando na área dados. Tenho conhecimentos em Python, com foco nas bibliotecas Pancas, Numpy, Seabord e Matplotlib. Além de SQL, Excel e Tableau.
+Possuo interesse em análises estatísicas, visualização de dados e data storytelling. Acredito que minha formação generalista e experiências adiquiridas me possibilitam uma perspectiva unica, aliadas a curiosidade e vontade de aprender.
+
+## Projetos
+- Meu Spotify Wrapped
+- Poderia eu ter sido um medalhista olímpico?
