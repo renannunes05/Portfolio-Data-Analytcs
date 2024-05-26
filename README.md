@@ -4,5 +4,5 @@ Olá! Eu sou o Renan e esse é o portfólio que eu criei para comprartilhar meus
 Possuo interesse em análises estatísticas, visualização de dados e data storytelling. Acredito que minha formação generalista e experiências adiquiridas me possibilitam uma perspectiva unica, aliadas a curiosidade e vontade de aprender.
 
 ## Projetos
-- Meu Spotify Wrapped
+- [Redesenhando o Spotify Wrapped](https://github.com/renanvsn/Redesenhando-Spotify-Wrapped)
 - Poderia eu ter sido um medalhista olímpico?
