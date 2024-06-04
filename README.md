@@ -5,4 +5,4 @@ Possuo interesse em análises estatísticas, visualização de dados e data stor
 
 ## Projetos
 - [Redesenhando o Spotify Wrapped](https://github.com/renanvsn/Redesenhando-Spotify-Wrapped)
-- [Disparidade de gênero nos jogos Olímpicos] (https://github.com/renanvsn/Jogos-Ol-mpicos/)
+- [Disparidade de gênero nos jogos Olímpicos](https://github.com/renanvsn/Jogos-Ol-mpicos/)
