@@ -1,4 +1,4 @@
-## Portifolio
+## Portfólio
 
 Olá! Eu sou o Renan e esse é o portfólio que eu criei para comprartilhar meus estudos e projetos que venho desenvolvendo na área de análise e ciência de dados. Sou Arquiteto e Urbanista de formação e venho me aventurando na área dados. Tenho conhecimentos em Python, com foco nas bibliotecas Pandas, Numpy, Seaborn e Matplotlib, além de SQL, Excel e Tableau.
 Possuo interesse em análises estatísticas, visualização de dados e data storytelling. Acredito que minha formação generalista e experiências adiquiridas, aliadas à curiosidade, me possibilitam uma perspectiva unica.
