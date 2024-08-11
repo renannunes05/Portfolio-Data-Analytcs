@@ -7,6 +7,6 @@ I'm a trained Architect and Urban Designer and recently I started delving into t
 
 
 ## Projects
-- [My own Spotify Wrapped](https://github.com/renannunes05/spotify-wrapped)
-- [CHANGING THE GAME - Female representation in Olympic History](https://github.com/renannunes05/changing-the-game)
 - [Olist - Consumer Behavior](https://github.com/renanvsn/olist_consumer_behaviour/)
+- [CHANGING THE GAME - Female representation in Olympic History](https://github.com/renannunes05/changing-the-game)
+- [My own Spotify Wrapped](https://github.com/renannunes05/spotify-wrapped)
